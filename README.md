@@ -3,3 +3,7 @@ https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMi4xLjAiLCJwbGF0Zm9ybSI6ImphdmEiLCJ
 
 Imagen del ejercicio 2
 <img src="Screenshot from 2024-12-07 15-33-00.png" alt="Imagen del ejercicio 2">
+
+Ejercicio 3
+<img src="Screenshot from 2024-12-07 16-10-01.png" alt="Imagen del ejercicio 3">
+
